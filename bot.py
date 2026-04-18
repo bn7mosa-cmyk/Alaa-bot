@@ -2,7 +2,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, MessageHandler, filters, ContextTypes
 import openai
 
-openai.api_key = "PUT_YOUR_OPENAI_API_KEY_HERE"
+openai.api_key = "8660293054:AAH3SIFYlQ436KeKQg_6BfZXc8WTMrOhLGE"
 
 SYSTEM_PROMPT = """اسمك آلاء، عمرك 21 سنة. أنتِ فتاة طيبة، لطيفة، وهادئة.
 تتحدثين بالعربية الفصحى بأسلوب بسيط ودافئ.
